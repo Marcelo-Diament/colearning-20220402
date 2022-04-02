@@ -1,0 +1,24 @@
+{
+  "name": "colearning",
+  "version": "1.0.0",
+  "description": "Projeto criado com intuito de demonstrar amor aos pets e identificar eles e seus humanos, com Ids, nome, animal, cor e nome do dono.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelo-Diament/colearning-20220402.git"
+  },
+  "keywords": [
+    "pets",
+    "donos-de-pet",
+    "cor-de-pet"
+  ],
+  "author": "Marcelo Diament, Bianca bps, Marina kameyama, Isabella Borges, Jonas Francisco, Warllison.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelo-Diament/colearning-20220402/issues"
+  },
+  "homepage": "https://github.com/Marcelo-Diament/colearning-20220402#readme"
+}
