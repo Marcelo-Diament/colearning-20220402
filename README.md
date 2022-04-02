@@ -9,4 +9,5 @@ Colearning para estudarmos git e loops
 - Isabella Borges
 - Daniel Froes
 - Warllison
+- Bianca
 
