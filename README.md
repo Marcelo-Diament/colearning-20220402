@@ -2,6 +2,9 @@
 
 Colearning para estudarmos git e loops
 
-## Participantes 
+## Participantes
 
+- Marcelo Diament
+- Jonas Francisco
+- Isabella Borges
 - Daniel Froes
