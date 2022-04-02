@@ -1,2 +1,7 @@
-# colearning-20220402
+# Colearning 02/04/2022
+
 Colearning para estudarmos git e loops
+
+## Participantes 
+
+- Daniel Froes
