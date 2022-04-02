@@ -1,9 +1,12 @@
-# colearning-02/04/2022
+# Colearning 02/04/2022
 
 Colearning para estudarmos git e loops
 
 ## Participantes
 
--Isabella Borges
+- Marcelo Diament
+- Jonas Francisco
+- Isabella Borges
+- Daniel Froes
+- Warllison
 
--Warllison
