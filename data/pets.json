@@ -1,21 +1,23 @@
-[{
-    "id":1,
-    "nome": "Marcia",
-    "animal": "Gato",
-    "cor": "Branco",
-    "nomeDoDono": "Bianca Pacheco"
-},
-{
-    "id":2,
-    "nome": "Caramelo",
-    "animal": "cachorro",
-    "cor": "Amarelo",
-    "nomeDoDono": "Marcelo Diament"
-},
-{
-    "id":3,
-    "nome": "Maikon",
-    "animal": "Macaco",
-    "cor": "Preto",
-    "nomeDoDono": "Daniel Froes"
-}]
+[
+    {
+        "id":1,
+        "nome": "Marcia",
+        "animal": "Gato",
+        "cor": "Branco",
+        "nomeDoDono": "Bianca Pacheco"
+    },
+    {
+        "id":2,
+        "nome": "Caramelo",
+        "animal": "cachorro",
+        "cor": "Amarelo",
+        "nomeDoDono": "Marcelo Diament"
+    },
+    {
+        "id":3,
+        "nome": "Maikon",
+        "animal": "Macaco",
+        "cor": "Preto",
+        "nomeDoDono": "Daniel Froes"
+    }
+]
